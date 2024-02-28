@@ -1,0 +1,109 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+header {
+background-color:rgb(64, 173, 177);
+ overflow: auto; 
+ padding: 10px; 
+
+}
+
+a:hover {
+color:wheat;
+}
+
+header a {
+text-decoration: none;
+color: white;
+padding: 35px;
+
+}
+
+header img {
+width: 150px;
+height: 110px;
+float: left;
+margin-right: 10px; 
+margin-bottom: 10px;
+}
+
+ .image-container {
+ overflow: auto;
+        }
+
+nav {
+ float: left; 
+ margin-top: 25px;
+ margin-bottom: 1px;
+}
+
+
+.pic{ 
+  float:left; 
+margin: 7px 7px 7px 0; 
+}
+
+
+footer {
+background-color:rgb(64, 173, 177);
+padding: 8px;
+}
+
+.acva {
+color:grey;
+border-bottom: 2px solid black;
+}
+
+.day{
+color: rgb(125, 88, 88);
+font-size: 19px;
+}
+
+.imd {
+height: 300px;
+width: 380px;
+margin-left: 350px;
+}
+
+table {
+font-size: 20px;
+border: 2px solid lightblue;
+margin-bottom: 15px;
+margin-left: 10px;
+
+}
+
+td {
+border: 2px solid lightblue;
+}
+
+.ble{
+color: rgb(25, 141, 135);
+font-size: 29px;
+}
+
+font{
+color: rgb(239, 38, 38);
+}
+
+
+.ppp{
+font-size: 18px;
+}
+
+img {
+height: 360px;
+width: 440px;
+}
+
+.bacc{
+text-align: center;
+font-size: 22px;
+padding-left: 15px;
+}
+
+.cen{
+text-align: center;
+}
